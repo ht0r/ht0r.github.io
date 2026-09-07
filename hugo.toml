@@ -2,3 +2,20 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'New Journey of ht0r'
 theme = 'archie'
+
+[menu]
+
+  [[menu.main]]
+    name = "HOME"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "POSTS"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "ABOUT"
+    url = "/about/"
+    weight = 3
