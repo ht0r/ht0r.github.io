@@ -17,5 +17,5 @@ theme = 'archie'
 
   [[menu.main]]
     name = "ABOUT"
-    url = "/about/about.md"
+    url = "/about/about"
     weight = 3
