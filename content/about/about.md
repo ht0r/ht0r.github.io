@@ -7,7 +7,7 @@ draft: false
 # Welcome, I'm ht0r!
 
 
-former number in [Timekeeper](https://timekeeper-team.site/) from SDUST.
+former member in [Timekeeper](https://timekeeper-team.site/) from SDUST.
 
 cybersecurity researcher
 
