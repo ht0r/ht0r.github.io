@@ -19,3 +19,7 @@ theme = 'archie'
     name = "ABOUT"
     url = "/about/about"
     weight = 3
+
+
+[pagination]
+  pagerSize = 10
