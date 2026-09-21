@@ -23,4 +23,4 @@ Well about the restaurant👎, it's called "雪乡人家铁锅炖一切（Xuexia
 
 I will never forget that humiliating day! And I hope you have a great one.
 
-[📍 check this place from you apple map](http://maps.apple.com/?ll=31.19,121.56). If you ever come to Shanghai, hope you don't step into there.
+[📍 中国上海市浦东新区白杨路1051号](https://maps.apple.com/?q=%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%B5%A6%E4%B8%9C%E6%96%B0%E5%8C%BA%E7%99%BD%E6%9D%A8%E8%B7%AF1051%E5%8F%B7). If you ever come to Shanghai, hope you don't step into there.
